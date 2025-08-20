@@ -1,0 +1,28 @@
+.cat{
+    background-color: #444654;
+}
+.avata{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    border-radius: 6px;
+}
+
+.mescontainer{
+    width: 80%;
+    margin: auto;
+    padding: 20px 0px;
+    display: flex;
+    align-items: center;
+    height: 100%;
+    p{
+
+        text-align: left;
+        width: 100%;
+        margin: 0;
+        color: white;
+        font-size: 16px;
+        word-wrap: break-word;
+        white-space: normal;
+    }
+}
